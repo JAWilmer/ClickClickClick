@@ -1,0 +1,12 @@
+.allCards {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  text-align: center;
+}
+
+.allCards img {
+  height: 200px;
+  width: 200px;
+  background-color: transparent;
+}
