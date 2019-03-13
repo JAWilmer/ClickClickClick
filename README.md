@@ -13,5 +13,5 @@ How good is your memory?   Test it with [_Click, Click, Click_](https://jawilmer
 
 **SNEAK PEEK**
 
-[Clicky Game Screenshot](screenshot.png)
+![Clicky Game Screenshot](screenshot.png)
 
